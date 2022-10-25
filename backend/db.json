@@ -1,0 +1,64 @@
+[
+    {
+        "id": "Emp00001",
+        "name": " Sundar",
+        "email": "shyam@gmail.com",
+        "experience": 3,
+        "designation": "Manager",
+        "doj": "2010",
+        "users": [
+            {
+                "id": 111,
+                "place":"chennai"
+            }
+        ]
+    },
+    {
+        "id": "Emp00002",
+        "name": "Abi",
+        "email": "abi@gmail.com",
+        "experience": 10,
+        "designation": "Senior Manager",
+        "doj": "2012"
+    },
+    {
+        "id": "Emp00003",
+        "name": " Smith",
+        "email": "smith@gmail.com",
+        "experience": 12,
+        "designation": "Manager",
+        "doj": "2020"
+    },
+    {
+        "id": "Emp00004",
+        "name": "Joseph",
+        "email": "joseph@gmail.com",
+        "experience": 1,
+        "designation": "Developer",
+        "doj": "2021"
+    },
+    {
+        "id": "Emp00005",
+        "name": "Yash ",
+        "email": "yash@gmail.com",
+        "experience": 2,
+        "designation": "QA",
+        "doj": "2016"
+    },
+    {
+        "id": "Emp00006",
+        "name": "Rohit",
+        "email": "rohit@gmail.com",
+        "experience": 3,
+        "designation": "Senior Developer",
+        "doj": "2019"
+    },
+    {
+        "id": "Emp00007",
+        "name": " kumar ",
+        "email": "kumar@gmail.com",
+        "experience": 9,
+        "designation": "SME",
+        "doj": "2019"
+    }
+]

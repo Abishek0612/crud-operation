@@ -1,0 +1,7 @@
+.edit {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    gap: 15px;
+    padding: 10px;   
+}
